@@ -3,7 +3,7 @@ import './features.css'
 const features = () => {
   return (
     <div>
-      
+      feature
     </div>
   )
 }

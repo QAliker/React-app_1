@@ -1,9 +1,9 @@
 import React from 'react'
-import 'possibiilty.css'
+import './possibility.css'
 const possibility = () => {
   return (
     <div>
-      
+      Possiblity
     </div>
   )
 }

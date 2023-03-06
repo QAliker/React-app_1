@@ -4,7 +4,7 @@ import './brand.css'
 const brand = () => {
   return (
     <div>
-      
+      brand
     </div>
   )
 }
